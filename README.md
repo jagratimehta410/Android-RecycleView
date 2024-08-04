@@ -37,7 +37,7 @@ To get started with **Android_CardRecyclerView**, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/jagratimehta410/Android_CardRecyclerView/
+   https://github.com/jagratimehta410/Android_RecyclerView/
    
 
 ### Open the Project in Android Studio:
